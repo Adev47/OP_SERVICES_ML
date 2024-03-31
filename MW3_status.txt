@@ -1,4 +1,5 @@
 UNLOCK + SPOOFER,online
 UNLOCK + SPOOFER V2,online
+OP CHAIR,online
 CHAIR + BLOCKER,online
 AIO,online
